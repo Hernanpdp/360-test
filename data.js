@@ -73,12 +73,11 @@ var APP_DATA = {
           "target": "0-1_ky8q5mqqqmz6r8yxcecu6w"
         }
       ],
-      "infoHotspots": [
+      "3DHotspots": [
         {
           "yaw": 1.8589964669607442,
           "pitch": 0.06846101165728413,
-          "title": "blablab",
-          "text": "cosacosa"
+          "title": "3D",
         }
       ]
     }
